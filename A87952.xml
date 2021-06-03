@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from His Majesties court in the Isle of VVight: wherein is declared, the Kings Majesties late resolution touching Colonell Hammond, and the manner how he should have beene conveyed from Carisbrook Castle to the Kentish army. With his Majesties propositions touching the same, and three thousand pounds proffered to three souldiers for the performance thereof. Also, a great fight neer Canterbury in Kent, divers slain, and one of the Kings Colonels, with 30. of his men taken taken [sic] prisoners. And another fight neer Rochester. with the number slain and taken. Likewise, the Kentish-mens propositions to the Lord Generall, with his Excellencies answer, and the armies advance towards Rochester.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87952</idno><idno type="EEBO-CITATION">99864259</idno>
+  <idno type="VID">161764</idno>
+  <idno type="EEBO-PROQUEST">2248542436</idno>
+  
+            <idno type="STC">Wing L1475</idno>
+            <idno type="STC">Thomason E445_35</idno>
+            <idno type="STC">ESTC R204798</idno>
+            <idno type="PROQUEST">99864259</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864259e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161764)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from His Majesties court in the Isle of VVight: wherein is declared, the Kings Majesties late resolution touching Colonell Hammond, and the manner how he should have beene conveyed from Carisbrook Castle to the Kentish army. With his Majesties propositions touching the same, and three thousand pounds proffered to three souldiers for the performance thereof. Also, a great fight neer Canterbury in Kent, divers slain, and one of the Kings Colonels, with 30. of his men taken taken [sic] prisoners. And another fight neer Rochester. with the number slain and taken. Likewise, the Kentish-mens propositions to the Lord Generall, with his Excellencies answer, and the armies advance towards Rochester.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Juni 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hammond, Robert, 1621-1654.</term>
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Royalists --  England --  Kent --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161764:1"/>
+            <p>A LETTER FROM HIS MAIESTIES COURT IN THE Isle of Wight: Wherein is declared, The Kings Majesties late Resolution touching Colonell <hi>Hammond,</hi> and the manner how he should have beene conveyed from <hi>Carisbrook</hi> Castle to the Kentish ARMY.</p>
+            <p>With his Majesties Propositions touching the same, and three thousand pounds proffered to three Souldiers for the performance thereof.</p>
+            <p>Also, a great Fight neer <hi>Canterbury</hi> in <hi>Kent,</hi> divers slain, and one of the Kings Colonels, with 30. of his men taken ta<g ref="char:EOLhyphen"/>ken prisoners. And another Fight neer <hi>Rochester.</hi> with the number slain and taken.</p>
+            <p>Likewise, the Kentish-mens Propositions to the Lord Generall, with his Excellencies Answer, and the Armies ad<g ref="char:EOLhyphen"/>vance towards <hi>Rochester.</hi>
+            </p>
+            <p>
+               <add>June 2<seg rend="sup">d</seg>
+               </add>
+               <hi>London,</hi> Printed for <hi>R. W.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161764:2"/>
+            <pb n="1" facs="tcp:161764:2"/>
+            <head>A LETTER FROM The Kings Majesties Court at <hi>Cariisbrock</hi> Castle, shewing the manner how his Majesty should have been con<g ref="char:EOLhyphen"/>veyed from the said Island, to the Kentish ARMY.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THis day our Governour (Colonell <hi>Hammond</hi>) re<g ref="char:EOLhyphen"/>ceived information of a new stratagem, for the con<g ref="char:EOLhyphen"/>veying of his Majesty from this Island, the manner thus; His Majesty having received intelligence of the pro<g ref="char:EOLhyphen"/>ceedings and Engagement of the Kentish-men, began to think and study, how he might make his escape, and at the last, ha<g ref="char:EOLhyphen"/>ving an opportunity, resolved with himself, to declare his mind to three souldiers, which he suppos'd he might put confidence in, by promising them a great reward and gratui<g ref="char:EOLhyphen"/>ty, which accordingly He did, and told them, that if they would do him that acceptable favour, as to use their ende<g ref="char:EOLhyphen"/>vours for the restoring of Him to His liberty, and setting of
+<pb n="2" facs="tcp:161764:3"/>him free from that Castle, they should each of them have 1000. l: whereupon they humbly thanked his Majesty, protesting that they would use their utmost endeavours for the obtaining of his Majesties liberty, and presently conside<g ref="char:EOLhyphen"/>red how they should accomplish the same, as the last resolved to buy a certain quantity of <hi>Aqua-fortis,</hi> and to ap<g ref="char:EOLhyphen"/>ply it to the Iron-Bars of one of his Majesties Chamber windows, and so to eat the Bar asunder, which they did, and when the work was almost acoomplish'd, two of them be<g ref="char:EOLhyphen"/>gan to repent of their former action, resolving to proceed no further therein, but to discover the same to the Governour, which accordingly they did: Whereupon our Governour used his utmost endeavours for the preventing thereof, and ordered, that all care and diligence should be used for the future, that no such thing should be acted. If this design had taken effect, his Majesty should have been conveyed first to Southampton, and from thence, either for the North or <hi>Kent.</hi>
+            </p>
+            <closer>
+               <dateline>Carisbrook Castle <date>29. May, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The further proceedings of the Kentish Army, and their chusing of Col. <hi>Washington</hi> Generall.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Kentish Army is retreated as far as <hi>Rochester, Maidstone,</hi> and other towns adjacent, they consist of about 14000. but are divided into two Bodies, most of them being armed; but they cannot concord and agree a<g ref="char:EOLhyphen"/>bout their Commanders in chief, some say, that they desire Col. <hi>Washington</hi> may be their Generall; others give out, that they will have the Lord <hi>Culpepper.</hi>
+            </p>
+            <p>This day the Generall had a Randezvouz upon the Heath beyond this town, where appeared of horse and foot 8000.
+<pb n="4" facs="tcp:161764:3"/>The Kentish-men have sent Propositions to the General, tou<g ref="char:EOLhyphen"/>ching a treaty, but the Generall returned answer, that hee knew not of any order of Parliament directing him to treat, and whereas he finds the Gentlemen of <hi>Kent,</hi> and others in Arms, and persisting therein, without, and against the autho<g ref="char:EOLhyphen"/>rity of Parliament, and doing many Acts of Hostility, to the great dammage of their Neighbours, he cannot capitulate while they are so in arms, nor lose time in prosecution; but if they forthwith lay down, and go home, he doubts not but the Parliament will pardon the seduced, and punish the sedu<g ref="char:EOLhyphen"/>cers for example to others.</p>
+            <p>They Regiment, and are very numerous in horse, few men of quality to be seen, but as is apprehended, gathered in Armes; some skirmishes have been, and at severall times neer 100. prisoners taken.</p>
+            <p>A small party of Col. <hi>Riches</hi> horse sallying out, met with a party of the Kentish foot, fought with them, and put them to a rout, taking 36 prisoners, with the losse of one man, having but 7 in number.</p>
+            <p>But on Wednesday last a party of the Kentish-men came up unto a Guard of the Parliaments Forces, they fought well, divers of them were slain, others taken, among the rest two young Gentlemen who were brave in Gold and Silver Lace, with whom the Souldiers changed. The Generall hath a party of horse in the wild of <hi>Kent,</hi> who desire to relieve <hi>Dover</hi> Castle besieged by them, to whom are joyned some hundreds of the Kentish, who have made some spoyl among the other Kentish, and have taken Col. <hi>Culpepper,</hi> and many others. They say there is with the Kentish-men one of the <hi>Gorings,</hi> and that they increase hourly.</p>
+            <pb n="4" facs="tcp:161764:4"/>
+            <p> On Fryday last Vice-admiral <hi>Rainsborough</hi> came ashore at his own Castle at <hi>Deale,</hi> the occasion was, because some of the Kentish men had endea<g ref="char:EOLhyphen"/>voured to get the possession of the Earl of <hi>War<g ref="char:EOLhyphen"/>wicks</hi> Castle of <hi>Sandon,</hi> the castle of <hi>Warbrough,</hi> and this Castle, which are all three within a mile and a half one of the other. <hi>And when the Vice Admi<g ref="char:EOLhyphen"/>rall had done his endeavour to secure them, he went in a small Pinace to his command again at</hi> Sea; <hi>and when he came to the ship which was under his immediate com<g ref="char:EOLhyphen"/>mand, those which were in her forbad him to come a<g ref="char:EOLhyphen"/>board, saying they would obey him no longer, but would have the King brought to London, &amp;c and told him, if he came aboard, it was at his perill, but if he pleased, he might depart in the Vessel hee was in.</hi>
+            </p>
+            <p>
+               <hi>Then they sent to Capt. Penrose, desiring him to come in to joyn with them; but he replyed he would not, and asked them, if they would become Enemies to their for<g ref="char:EOLhyphen"/>mer cause and Engagements, and quite cast of all sub<g ref="char:EOLhyphen"/>jection.</hi>
+            </p>
+            <p>To which they generally replyed no, they were for King and Parliam. then said he, it were fit that you should make choice of some honourable per<g ref="char:EOLhyphen"/>son, that is true to both, for this is a place not fit for any other, &amp;c. hee had no sooner spoken this but one of them named the Earl of <hi>Warwick,</hi> and all the rest cryed out presently, <hi>a Warwick, a War<g ref="char:EOLhyphen"/>wick:</hi>
+               <pb n="5" facs="tcp:161764:4"/>then they agreed to send a Letter to his Lordship, &amp; another to the Speaker of the house setting forth their proceedings, and that if the E. of <hi>Warwick</hi> came to them, they would live and dy with him, in defance of the cause for King and Par<g ref="char:EOLhyphen"/>liament, according to the first principles; and they made choice of capt. <hi>Pentose</hi> to bring these Let<g ref="char:EOLhyphen"/>ters, &amp; before his coming away, he told them, that it might be when he was gone, they would make choice of some other; and to give satisfaction to the contrary, they all took an oath, not to receed from this choice untill the E. of <hi>Warwick</hi> came to them, &amp;c.</p>
+            <p>On Fryday last the Kentish men took the Fort neer <hi>Dover</hi> Castle, whereof capt. <hi>Bethel,</hi> a very de<g ref="char:EOLhyphen"/>serving Gentleman, had the command, they shot many pieces against the Castle, but finding no pro<g ref="char:EOLhyphen"/>bability of doing any good against it, they gave it over, But we hear that the Generall hath sent a party of Horse to relieve <hi>Dover,</hi> and re-possesse themselves of the Fort, which is all at present, from</p>
+            <closer>
+               <dateline>Deptford <date>30. May, 1648.</date>
+               </dateline>
+               <signed>Your assured friend, <hi>D. M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:161764:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>SIR,</hi> Since the writing of my last, we have received in<g ref="char:EOLhyphen"/>telligence, that the party of horse that went to relieve <hi>Dover</hi> Castle, have had a great fight with the Kentish Horse neer <hi>Canterbury,</hi> and have taken divers prisoners, and killed many, with the losse of two or three men, and have totally routed the whole party. They also skirmished with another party of the Kentish Horse, commanded by a Colo<g ref="char:EOLhyphen"/>nel formerly in the Kings Army, and after some short dis<g ref="char:EOLhyphen"/>pute, took the said Colonell, and 30 of his men prisoners, The great Fort at <hi>Dover</hi> is re-taken, and now in possession of the Parliaments Forces.</p>
+            <closer>
+               <dateline>Deptford <date>31. May, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gilbert Mabbott.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
